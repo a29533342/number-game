@@ -7,7 +7,6 @@ import random
 
 r = random.randint(1, 100)
 count = 0
-print(r)
 while True:
 	ans = input('請輸入一個整數: ')
 	ans = int(ans)
